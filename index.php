@@ -14,11 +14,6 @@
   <link href="css/bootstrap-theme.min.css" rel="stylesheet">
 </head>
   <body>
-  <script type='text/javascript'>
-var uid = '37480';
-var wid = '69387';
-</script>
-<script type='text/javascript' src='http://cdn.popcash.net/pop.js'></script>
 <!-- Static navbar -->
 <nav class="navbar navbar-default">
 <div class="container-fluid">
